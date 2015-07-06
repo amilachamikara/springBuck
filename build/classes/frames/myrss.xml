@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 25 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=1</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=25/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 25 Newest Releases</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Mon, 06 Jul 2015 12:22:40 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2015-07-06T12:22:40-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Holst: The Planets, Op. 32 - Matthews: Pluto, the Renewer - Royal Scottish National Orchestra &amp; David Lloyd-Jones</title>
+    <link>https://itunes.apple.com/album/holst-planets-op.-32-matthews/id1002601342?uo=1&amp;v0=9988</link>
+    <description>Holst: The Planets, Op. 32 - Matthews: Pluto, the Renewer by Royal Scottish National Orchestra &amp; David Lloyd-Jones</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/holst-planets-op.-32-matthews/id1002601342?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/ef/c1/f6/efc1f6a4-3e95-bae5-3919-e0b3f6152efb/730099514811.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/holst-planets-op.-32-matthews/id1002601342?uo=1&v0=9988">Holst: The Planets, Op. 32 - Matthews: Pluto, the Renewer</a></B><br>
+						<a href="https://itunes.apple.com/artist/royal-scottish-national-orchestra/id4207598?uo=1&v0=9988">Royal Scottish National Orchestra &amp; David Lloyd-Jones</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 3, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						8</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$7.92</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Naxos Special Projects</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Royal Scottish National Orchestra &amp; David Lloyd-Jones</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/royal-scottish-national-orchestra/id4207598?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Holst: The Planets, Op. 32 - Matthews: Pluto, the Renewer</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/holst-planets-op.-32-matthews/id1002601342?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$7.92</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/ef/c1/f6/efc1f6a4-3e95-bae5-3919-e0b3f6152efb/730099514811.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/ef/c1/f6/efc1f6a4-3e95-bae5-3919-e0b3f6152efb/730099514811.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/ef/c1/f6/efc1f6a4-3e95-bae5-3919-e0b3f6152efb/730099514811.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Naxos Special Projects</itms:rights>
+    
+        <itms:releasedate>July 3, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Kodály, Bartók, Rachmaninoff &amp; Solti: Orchestral Works - London Philharmonic Orchestra &amp; Sir Georg Solti</title>
+    <link>https://itunes.apple.com/album/kodaly-bartok-rachmaninoff/id1005217664?uo=1&amp;v0=9988</link>
+    <description>Kodály, Bartók, Rachmaninoff &amp; Solti: Orchestral Works by London Philharmonic Orchestra &amp; Sir Georg Solti</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/kodaly-bartok-rachmaninoff/id1005217664?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/ca/f6/c9/caf6c9c6-4835-eaa4-4b99-dac55584c0d1/8051776561914.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/kodaly-bartok-rachmaninoff/id1005217664?uo=1&v0=9988">Kodály, Bartók, Rachmaninoff &amp; Solti: Orchestral Works</a></B><br>
+						<a href="https://itunes.apple.com/artist/london-philharmonic-orchestra/id498052?uo=1&v0=9988">London Philharmonic Orchestra &amp; Sir Georg Solti</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 3, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						17</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$19.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Urania Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>London Philharmonic Orchestra &amp; Sir Georg Solti</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/london-philharmonic-orchestra/id498052?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Kodály, Bartók, Rachmaninoff &amp; Solti: Orchestral Works</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/kodaly-bartok-rachmaninoff/id1005217664?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$19.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/ca/f6/c9/caf6c9c6-4835-eaa4-4b99-dac55584c0d1/8051776561914.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/ca/f6/c9/caf6c9c6-4835-eaa4-4b99-dac55584c0d1/8051776561914.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/ca/f6/c9/caf6c9c6-4835-eaa4-4b99-dac55584c0d1/8051776561914.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Urania Records</itms:rights>
+    
+        <itms:releasedate>July 3, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Dirty Work - Single - Austin Mahone</title>
+    <link>https://itunes.apple.com/album/dirty-work-single/id1015143119?uo=1&amp;v0=9988</link>
+    <description>Dirty Work - Single by Austin Mahone</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/dirty-work-single/id1015143119?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/e1/4d/c9/e14dc929-18a0-c3f5-2fe6-1d1bb3434422/UMG_cvrart_00602547473721_01_RGB72_1800x1800_15UMGIM33846.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/dirty-work-single/id1015143119?uo=1&v0=9988">Dirty Work - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/austin-mahone/id426978015?uo=1&v0=9988">Austin Mahone</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 2, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.69</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Chase Records / Cash Money Records, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Austin Mahone</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/austin-mahone/id426978015?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Dirty Work - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/dirty-work-single/id1015143119?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.69</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/e1/4d/c9/e14dc929-18a0-c3f5-2fe6-1d1bb3434422/UMG_cvrart_00602547473721_01_RGB72_1800x1800_15UMGIM33846.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/e1/4d/c9/e14dc929-18a0-c3f5-2fe6-1d1bb3434422/UMG_cvrart_00602547473721_01_RGB72_1800x1800_15UMGIM33846.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/e1/4d/c9/e14dc929-18a0-c3f5-2fe6-1d1bb3434422/UMG_cvrart_00602547473721_01_RGB72_1800x1800_15UMGIM33846.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Chase Records / Cash Money Records, Inc.</itms:rights>
+    
+        <itms:releasedate>July 2, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Shrug - Single - Christina Grimmie</title>
+    <link>https://itunes.apple.com/album/shrug-single/id1013099473?uo=1&amp;v0=9988</link>
+    <description>Shrug - Single by Christina Grimmie</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/shrug-single/id1013099473?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/af/71/e2/af71e202-b17b-a383-0e30-fe00d699aeec/748252097996_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/shrug-single/id1013099473?uo=1&v0=9988">Shrug - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/christina-grimmie/id441742009?uo=1&v0=9988">Christina Grimmie</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 2, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 LH7 Management </font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Christina Grimmie</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/christina-grimmie/id441742009?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Shrug - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/shrug-single/id1013099473?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/af/71/e2/af71e202-b17b-a383-0e30-fe00d699aeec/748252097996_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/af/71/e2/af71e202-b17b-a383-0e30-fe00d699aeec/748252097996_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/af/71/e2/af71e202-b17b-a383-0e30-fe00d699aeec/748252097996_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 LH7 Management </itms:rights>
+    
+        <itms:releasedate>July 2, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Special Affair - Single - The Internet</title>
+    <link>https://itunes.apple.com/album/special-affair-single/id1015018428?uo=1&amp;v0=9988</link>
+    <description>Special Affair - Single by The Internet</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/special-affair-single/id1015018428?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/de/b9/38/deb93827-926d-51a5-f7ad-00c89e4b7273/886445377088.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/special-affair-single/id1015018428?uo=1&v0=9988">Special Affair - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-internet/id158039925?uo=1&v0=9988">The Internet</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 1, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&v0=9988">R&amp;B/Soul</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Odd Future LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&amp;v0=9988">R&amp;B/Soul</category>
+    <itms:artist>The Internet</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-internet/id158039925?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Special Affair - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/special-affair-single/id1015018428?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/de/b9/38/deb93827-926d-51a5-f7ad-00c89e4b7273/886445377088.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/de/b9/38/deb93827-926d-51a5-f7ad-00c89e4b7273/886445377088.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/de/b9/38/deb93827-926d-51a5-f7ad-00c89e4b7273/886445377088.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Odd Future LLC</itms:rights>
+    
+        <itms:releasedate>July 1, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Freedom - Single - Pharrell Williams</title>
+    <link>https://itunes.apple.com/album/freedom-single/id1010891982?uo=1&amp;v0=9988</link>
+    <description>Freedom - Single by Pharrell Williams</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/freedom-single/id1010891982?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/12/67/a0/1267a009-cc81-f162-f1b7-220e66d66434/886445349689.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/freedom-single/id1010891982?uo=1&v0=9988">Freedom - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/pharrell-williams/id14934728?uo=1&v0=9988">Pharrell Williams</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 1, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Columbia Records, a Division of Sony Music Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Pharrell Williams</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/pharrell-williams/id14934728?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Freedom - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/freedom-single/id1010891982?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/12/67/a0/1267a009-cc81-f162-f1b7-220e66d66434/886445349689.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/12/67/a0/1267a009-cc81-f162-f1b7-220e66d66434/886445349689.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/12/67/a0/1267a009-cc81-f162-f1b7-220e66d66434/886445349689.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Columbia Records, a Division of Sony Music Entertainment</itms:rights>
+    
+        <itms:releasedate>July 1, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Go with It (feat. Vic Mensa) - Single - The Internet</title>
+    <link>https://itunes.apple.com/album/go-it-feat.-vic-mensa-single/id1015018429?uo=1&amp;v0=9988</link>
+    <description>Go with It (feat. Vic Mensa) - Single by The Internet</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/go-it-feat.-vic-mensa-single/id1015018429?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/0e/11/fc/0e11fcec-58c5-db44-1dab-288a2a559465/886445377095.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/go-it-feat.-vic-mensa-single/id1015018429?uo=1&v0=9988">Go with It (feat. Vic Mensa) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-internet/id158039925?uo=1&v0=9988">The Internet</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 1, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&v0=9988">R&amp;B/Soul</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Odd Future LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&amp;v0=9988">R&amp;B/Soul</category>
+    <itms:artist>The Internet</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-internet/id158039925?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Go with It (feat. Vic Mensa) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/go-it-feat.-vic-mensa-single/id1015018429?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/0e/11/fc/0e11fcec-58c5-db44-1dab-288a2a559465/886445377095.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/0e/11/fc/0e11fcec-58c5-db44-1dab-288a2a559465/886445377095.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/0e/11/fc/0e11fcec-58c5-db44-1dab-288a2a559465/886445377095.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Odd Future LLC</itms:rights>
+    
+        <itms:releasedate>July 1, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Cool for the Summer - Single - Demi Lovato</title>
+    <link>https://itunes.apple.com/album/cool-for-the-summer-single/id1013069897?uo=1&amp;v0=9988</link>
+    <description>Cool for the Summer - Single by Demi Lovato</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/cool-for-the-summer-single/id1013069897?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/79/2e/be/792ebeb4-fc69-5851-84a4-083d4488cbbd/UMG_cvrart_00050087331702_01_RGB72_1500x1500_15DMGIM06462.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/cool-for-the-summer-single/id1013069897?uo=1&v0=9988">Cool for the Summer - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/demi-lovato/id280215821?uo=1&v0=9988">Demi Lovato</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 1, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Hollywood Records, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Demi Lovato</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/demi-lovato/id280215821?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Cool for the Summer - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/cool-for-the-summer-single/id1013069897?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/79/2e/be/792ebeb4-fc69-5851-84a4-083d4488cbbd/UMG_cvrart_00050087331702_01_RGB72_1500x1500_15DMGIM06462.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/79/2e/be/792ebeb4-fc69-5851-84a4-083d4488cbbd/UMG_cvrart_00050087331702_01_RGB72_1500x1500_15DMGIM06462.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/79/2e/be/792ebeb4-fc69-5851-84a4-083d4488cbbd/UMG_cvrart_00050087331702_01_RGB72_1500x1500_15DMGIM06462.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Hollywood Records, Inc.</itms:rights>
+    
+        <itms:releasedate>July 1, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Nothing But Trouble (From the Soundtrack of the Documentary “808”) - Single - Lil Wayne &amp; Charlie Puth</title>
+    <link>https://itunes.apple.com/album/nothing-but-trouble-from-soundtrack/id1012136112?uo=1&amp;v0=9988</link>
+    <description>Nothing But Trouble (From the Soundtrack of the Documentary “808”) - Single by Lil Wayne &amp; Charlie Puth</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/nothing-but-trouble-from-soundtrack/id1012136112?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/f8/24/83/f8248390-d393-ba21-b534-119c88950ba9/dj.knalzttj.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/nothing-but-trouble-from-soundtrack/id1012136112?uo=1&v0=9988">Nothing But Trouble (From the Soundtrack of the Documentary “808”) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/lil-wayne/id5869117?uo=1&v0=9988">Lil Wayne &amp; Charlie Puth</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-soundtrack/id16?uo=1&v0=9988">Soundtrack</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-soundtrack/id16?uo=1&amp;v0=9988">Soundtrack</category>
+    <itms:artist>Lil Wayne &amp; Charlie Puth</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/lil-wayne/id5869117?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Nothing But Trouble (From the Soundtrack of the Documentary “808”) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/nothing-but-trouble-from-soundtrack/id1012136112?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/f8/24/83/f8248390-d393-ba21-b534-119c88950ba9/dj.knalzttj.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/f8/24/83/f8248390-d393-ba21-b534-119c88950ba9/dj.knalzttj.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/f8/24/83/f8248390-d393-ba21-b534-119c88950ba9/dj.knalzttj.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Grief - Single - Earl Sweatshirt</title>
+    <link>https://itunes.apple.com/album/grief-single/id1012197190?uo=1&amp;v0=9988</link>
+    <description>Grief - Single by Earl Sweatshirt</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/grief-single/id1012197190?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/30/df/5a/30df5ac6-5c5d-d739-f1aa-eb82e9e6dc63/886445365375.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/grief-single/id1012197190?uo=1&v0=9988">Grief - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/earl-sweatshirt/id445693504?uo=1&v0=9988">Earl Sweatshirt</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9988">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Tan Cressida, under exclusive license to Columbia Records, a Division of Sony Music Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9988">Hip-Hop/Rap</category>
+    <itms:artist>Earl Sweatshirt</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/earl-sweatshirt/id445693504?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Grief - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/grief-single/id1012197190?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/30/df/5a/30df5ac6-5c5d-d739-f1aa-eb82e9e6dc63/886445365375.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/30/df/5a/30df5ac6-5c5d-d739-f1aa-eb82e9e6dc63/886445365375.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/30/df/5a/30df5ac6-5c5d-d739-f1aa-eb82e9e6dc63/886445365375.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Tan Cressida, under exclusive license to Columbia Records, a Division of Sony Music Entertainment</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Found In Far Away Places (Deluxe Edition) - August Burns Red</title>
+    <link>https://itunes.apple.com/album/found-in-far-away-places-deluxe/id981302602?uo=1&amp;v0=9988</link>
+    <description>Found In Far Away Places (Deluxe Edition) by August Burns Red</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/found-in-far-away-places-deluxe/id981302602?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/1b/54/df/1b54dfc2-0f56-ca40-bb74-50359c51ca57/ABR_2000px.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/found-in-far-away-places-deluxe/id981302602?uo=1&v0=9988">Found In Far Away Places (Deluxe Edition)</a></B><br>
+						<a href="https://itunes.apple.com/artist/august-burns-red/id47796394?uo=1&v0=9988">August Burns Red</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock-metal/id1153?uo=1&v0=9988">Metal</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Fearless Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock-metal/id1153?uo=1&amp;v0=9988">Metal</category>
+    <itms:artist>August Burns Red</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/august-burns-red/id47796394?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Found In Far Away Places (Deluxe Edition)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/found-in-far-away-places-deluxe/id981302602?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$11.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/1b/54/df/1b54dfc2-0f56-ca40-bb74-50359c51ca57/ABR_2000px.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/1b/54/df/1b54dfc2-0f56-ca40-bb74-50359c51ca57/ABR_2000px.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/1b/54/df/1b54dfc2-0f56-ca40-bb74-50359c51ca57/ABR_2000px.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Fearless Records</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Nothing But Trouble (From the Soundtrack of the Documentary “808”) - Single - Lil Wayne &amp; Charlie Puth</title>
+    <link>https://itunes.apple.com/album/nothing-but-trouble-from-soundtrack/id1013076729?uo=1&amp;v0=9988</link>
+    <description>Nothing But Trouble (From the Soundtrack of the Documentary “808”) - Single by Lil Wayne &amp; Charlie Puth</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/nothing-but-trouble-from-soundtrack/id1013076729?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/06/e3/46/06e34642-6db7-8f32-7d39-a83fbb8b916b/dj.xazvqtkc.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/nothing-but-trouble-from-soundtrack/id1013076729?uo=1&v0=9988">Nothing But Trouble (From the Soundtrack of the Documentary “808”) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/lil-wayne/id5869117?uo=1&v0=9988">Lil Wayne &amp; Charlie Puth</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-hip-hop-rap-hip-hop/id1073?uo=1&v0=9988">Hip-Hop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-hip-hop-rap-hip-hop/id1073?uo=1&amp;v0=9988">Hip-Hop</category>
+    <itms:artist>Lil Wayne &amp; Charlie Puth</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/lil-wayne/id5869117?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Nothing But Trouble (From the Soundtrack of the Documentary “808”) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/nothing-but-trouble-from-soundtrack/id1013076729?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/06/e3/46/06e34642-6db7-8f32-7d39-a83fbb8b916b/dj.xazvqtkc.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/06/e3/46/06e34642-6db7-8f32-7d39-a83fbb8b916b/dj.xazvqtkc.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/06/e3/46/06e34642-6db7-8f32-7d39-a83fbb8b916b/dj.xazvqtkc.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>About to Get Real - Easton Corbin</title>
+    <link>https://itunes.apple.com/album/about-to-get-real/id1002611865?uo=1&amp;v0=9988</link>
+    <description>About to Get Real by Easton Corbin</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/about-to-get-real/id1002611865?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/f1/fe/58/f1fe58bf-c5bd-f075-583f-091f84426750/UMG_cvrart_00602547386908_01_RGB72_1500x1500_15UMGIM25561.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/about-to-get-real/id1002611865?uo=1&v0=9988">About to Get Real</a></B><br>
+						<a href="https://itunes.apple.com/artist/easton-corbin/id326877075?uo=1&v0=9988">Easton Corbin</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Mercury Records, a Division of UMG Recordings, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Easton Corbin</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/easton-corbin/id326877075?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>About to Get Real</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/about-to-get-real/id1002611865?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/f1/fe/58/f1fe58bf-c5bd-f075-583f-091f84426750/UMG_cvrart_00602547386908_01_RGB72_1500x1500_15UMGIM25561.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/f1/fe/58/f1fe58bf-c5bd-f075-583f-091f84426750/UMG_cvrart_00602547386908_01_RGB72_1500x1500_15UMGIM25561.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/f1/fe/58/f1fe58bf-c5bd-f075-583f-091f84426750/UMG_cvrart_00602547386908_01_RGB72_1500x1500_15UMGIM25561.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Mercury Records, a Division of UMG Recordings, Inc.</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Found In Far Away Places - August Burns Red</title>
+    <link>https://itunes.apple.com/album/found-in-far-away-places/id980435757?uo=1&amp;v0=9988</link>
+    <description>Found In Far Away Places by August Burns Red</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/found-in-far-away-places/id980435757?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/9d/19/90/9d1990ba-8c32-c463-74bf-ba6dfc728902/ABR_2000px.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/found-in-far-away-places/id980435757?uo=1&v0=9988">Found In Far Away Places</a></B><br>
+						<a href="https://itunes.apple.com/artist/august-burns-red/id47796394?uo=1&v0=9988">August Burns Red</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock-metal/id1153?uo=1&v0=9988">Metal</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Fearless Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock-metal/id1153?uo=1&amp;v0=9988">Metal</category>
+    <itms:artist>August Burns Red</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/august-burns-red/id47796394?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Found In Far Away Places</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/found-in-far-away-places/id980435757?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/9d/19/90/9d1990ba-8c32-c463-74bf-ba6dfc728902/ABR_2000px.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/9d/19/90/9d1990ba-8c32-c463-74bf-ba6dfc728902/ABR_2000px.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/9d/19/90/9d1990ba-8c32-c463-74bf-ba6dfc728902/ABR_2000px.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Fearless Records</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Into the Sun - Bassnectar</title>
+    <link>https://itunes.apple.com/album/into-the-sun/id1002204093?uo=1&amp;v0=9988</link>
+    <description>Into the Sun by Bassnectar</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/into-the-sun/id1002204093?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/c9/a0/24/c9a02444-6125-5de6-ce89-ca15ab1afdba/881034113108_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/into-the-sun/id1002204093?uo=1&v0=9988">Into the Sun</a></B><br>
+						<a href="https://itunes.apple.com/artist/bassnectar/id2900657?uo=1&v0=9988">Bassnectar</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						17</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 AMORPHOUS MUSIC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>Bassnectar</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/bassnectar/id2900657?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Into the Sun</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/into-the-sun/id1002204093?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$11.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/c9/a0/24/c9a02444-6125-5de6-ce89-ca15ab1afdba/881034113108_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/c9/a0/24/c9a02444-6125-5de6-ce89-ca15ab1afdba/881034113108_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/c9/a0/24/c9a02444-6125-5de6-ce89-ca15ab1afdba/881034113108_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 AMORPHOUS MUSIC</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Can&#39;t Feel My Face (Workout Mix) - Single - Power Music Workout</title>
+    <link>https://itunes.apple.com/album/cant-feel-my-face-workout/id1015112661?uo=1&amp;v0=9988</link>
+    <description>Can&#39;t Feel My Face (Workout Mix) - Single by Power Music Workout</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/cant-feel-my-face-workout/id1015112661?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/7e/6b/7b/7e6b7bc9-d0a8-b127-fc50-3d6351cee67f/Can_tFeelMyFace2400.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/cant-feel-my-face-workout/id1015112661?uo=1&v0=9988">Can't Feel My Face (Workout Mix) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/power-music-workout/id112115157?uo=1&v0=9988">Power Music Workout</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-fitness-workout/id50?uo=1&v0=9988">Fitness &amp; Workout</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$2.58</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Power Music, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-fitness-workout/id50?uo=1&amp;v0=9988">Fitness &amp; Workout</category>
+    <itms:artist>Power Music Workout</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/power-music-workout/id112115157?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Can&#39;t Feel My Face (Workout Mix) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/cant-feel-my-face-workout/id1015112661?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$2.58</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/7e/6b/7b/7e6b7bc9-d0a8-b127-fc50-3d6351cee67f/Can_tFeelMyFace2400.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/7e/6b/7b/7e6b7bc9-d0a8-b127-fc50-3d6351cee67f/Can_tFeelMyFace2400.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/7e/6b/7b/7e6b7bc9-d0a8-b127-fc50-3d6351cee67f/Can_tFeelMyFace2400.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Power Music, Inc.</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) [DiscoTech Remix] - Single - Flo Rida</title>
+    <link>https://itunes.apple.com/album/i-dont-like-it-i-love-it-feat./id1009033308?uo=1&amp;v0=9988</link>
+    <description>I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) [DiscoTech Remix] - Single by Flo Rida</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/i-dont-like-it-i-love-it-feat./id1009033308?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/d5/94/1f/d5941f7e-0eb8-941f-0642-fa39425e4464/075679922113.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/i-dont-like-it-i-love-it-feat./id1009033308?uo=1&v0=9988">I Don't Like It, I Love It (feat. Robin Thicke &amp; Verdine White) [DiscoTech Remix] - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/flo-rida/id255303209?uo=1&v0=9988">Flo Rida</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-dance/id17?uo=1&v0=9988">Dance</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-dance/id17?uo=1&amp;v0=9988">Dance</category>
+    <itms:artist>Flo Rida</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/flo-rida/id255303209?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) [DiscoTech Remix] - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/i-dont-like-it-i-love-it-feat./id1009033308?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/d5/94/1f/d5941f7e-0eb8-941f-0642-fa39425e4464/075679922113.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/d5/94/1f/d5941f7e-0eb8-941f-0642-fa39425e4464/075679922113.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/d5/94/1f/d5941f7e-0eb8-941f-0642-fa39425e4464/075679922113.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Frank - Amy Winehouse</title>
+    <link>https://itunes.apple.com/album/frank/id1011660513?uo=1&amp;v0=9988</link>
+    <description>Frank by Amy Winehouse</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/frank/id1011660513?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/c2/8a/88/c28a88a8-1f28-98d6-fd3f-8be2d047acf9/UMG_cvrart_00602547456472_01_RGB72_1500x1500_15UMGIM31140.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/frank/id1011660513?uo=1&v0=9988">Frank</a></B><br>
+						<a href="https://itunes.apple.com/artist/amy-winehouse/id13125609?uo=1&v0=9988">Amy Winehouse</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&v0=9988">R&amp;B/Soul</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$7.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Universal Island Records Ltd. A Universal Music Company.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&amp;v0=9988">R&amp;B/Soul</category>
+    <itms:artist>Amy Winehouse</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/amy-winehouse/id13125609?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Frank</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/frank/id1011660513?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$7.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/c2/8a/88/c28a88a8-1f28-98d6-fd3f-8be2d047acf9/UMG_cvrart_00602547456472_01_RGB72_1500x1500_15UMGIM31140.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/c2/8a/88/c28a88a8-1f28-98d6-fd3f-8be2d047acf9/UMG_cvrart_00602547456472_01_RGB72_1500x1500_15UMGIM31140.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/c2/8a/88/c28a88a8-1f28-98d6-fd3f-8be2d047acf9/UMG_cvrart_00602547456472_01_RGB72_1500x1500_15UMGIM31140.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Universal Island Records Ltd. A Universal Music Company.</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Magic Mike XXL (Original Motion Picture Soundtrack) - Various Artists</title>
+    <link>https://itunes.apple.com/album/magic-mike-xxl-original-motion/id1007667331?uo=1&amp;v0=9988</link>
+    <description>Magic Mike XXL (Original Motion Picture Soundtrack) by Various Artists</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/magic-mike-xxl-original-motion/id1007667331?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/05/50/45/0550457e-a154-80f6-6fe8-45fb50539546/Magic_Mike_XXL_CleanEdit_Sdtk_Cover_1500px_RGB_72dpi.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/magic-mike-xxl-original-motion/id1007667331?uo=1&v0=9988">Magic Mike XXL (Original Motion Picture Soundtrack)</a></B><br>
+						<br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-soundtrack/id16?uo=1&v0=9988">Soundtrack</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$10.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 WaterTower Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-soundtrack/id16?uo=1&amp;v0=9988">Soundtrack</category>
+    <itms:artist>Various Artists</itms:artist>
+    <itms:artistLink></itms:artistLink>
+    <itms:album>Magic Mike XXL (Original Motion Picture Soundtrack)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/magic-mike-xxl-original-motion/id1007667331?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$10.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/05/50/45/0550457e-a154-80f6-6fe8-45fb50539546/Magic_Mike_XXL_CleanEdit_Sdtk_Cover_1500px_RGB_72dpi.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/05/50/45/0550457e-a154-80f6-6fe8-45fb50539546/Magic_Mike_XXL_CleanEdit_Sdtk_Cover_1500px_RGB_72dpi.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/05/50/45/0550457e-a154-80f6-6fe8-45fb50539546/Magic_Mike_XXL_CleanEdit_Sdtk_Cover_1500px_RGB_72dpi.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 WaterTower Music</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Summertime &#39;06 - Vince Staples</title>
+    <link>https://itunes.apple.com/album/summertime-06/id1003985250?uo=1&amp;v0=9988</link>
+    <description>Summertime &#39;06 by Vince Staples</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/summertime-06/id1003985250?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/91/be/8d/91be8da2-7b7c-f4c2-785c-63a14a79bfa2/UMG_cvrart_00602547373267_01_RGB72_1500x1500_15UMGIM30084.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/summertime-06/id1003985250?uo=1&v0=9988">Summertime '06</a></B><br>
+						<a href="https://itunes.apple.com/artist/vince-staples/id566639154?uo=1&v0=9988">Vince Staples</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						20</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9988">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$13.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Def Jam Recordings, a division of UMG Recordings, Inc. (ARTium Recordings)</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9988">Hip-Hop/Rap</category>
+    <itms:artist>Vince Staples</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/vince-staples/id566639154?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Summertime &#39;06</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/summertime-06/id1003985250?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$13.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/91/be/8d/91be8da2-7b7c-f4c2-785c-63a14a79bfa2/UMG_cvrart_00602547373267_01_RGB72_1500x1500_15UMGIM30084.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/91/be/8d/91be8da2-7b7c-f4c2-785c-63a14a79bfa2/UMG_cvrart_00602547373267_01_RGB72_1500x1500_15UMGIM30084.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/91/be/8d/91be8da2-7b7c-f4c2-785c-63a14a79bfa2/UMG_cvrart_00602547373267_01_RGB72_1500x1500_15UMGIM30084.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Def Jam Recordings, a division of UMG Recordings, Inc. (ARTium Recordings)</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Heart Is a Monster - Failure</title>
+    <link>https://itunes.apple.com/album/the-heart-is-a-monster/id989008661?uo=1&amp;v0=9988</link>
+    <description>The Heart Is a Monster by Failure</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/the-heart-is-a-monster/id989008661?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/af/e9/04/afe904fe-287d-10d0-b9ed-79ec54bd798f/889326233121_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/the-heart-is-a-monster/id989008661?uo=1&v0=9988">The Heart Is a Monster</a></B><br>
+						<a href="https://itunes.apple.com/artist/failure/id1646309?uo=1&v0=9988">Failure</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						18</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Failure Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>Failure</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/failure/id1646309?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Heart Is a Monster</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/the-heart-is-a-monster/id989008661?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$11.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/af/e9/04/afe904fe-287d-10d0-b9ed-79ec54bd798f/889326233121_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/af/e9/04/afe904fe-287d-10d0-b9ed-79ec54bd798f/889326233121_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/af/e9/04/afe904fe-287d-10d0-b9ed-79ec54bd798f/889326233121_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Failure Records</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Morning Sun - Single - Robin Thicke</title>
+    <link>https://itunes.apple.com/album/morning-sun-single/id1009117050?uo=1&amp;v0=9988</link>
+    <description>Morning Sun - Single by Robin Thicke</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/morning-sun-single/id1009117050?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/ea/c8/8a/eac88ad9-b885-9988-6f41-56b28adc76f2/UMG_cvrart_00602547338976_01_RGB72_1500x1500_15UMGIM31026.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/morning-sun-single/id1009117050?uo=1&v0=9988">Morning Sun - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/robin-thicke/id290491?uo=1&v0=9988">Robin Thicke</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&v0=9988">R&amp;B/Soul</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Interscope Records/Star Trak Entertainment, LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&amp;v0=9988">R&amp;B/Soul</category>
+    <itms:artist>Robin Thicke</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/robin-thicke/id290491?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Morning Sun - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/morning-sun-single/id1009117050?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/ea/c8/8a/eac88ad9-b885-9988-6f41-56b28adc76f2/UMG_cvrart_00602547338976_01_RGB72_1500x1500_15UMGIM31026.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/ea/c8/8a/eac88ad9-b885-9988-6f41-56b28adc76f2/UMG_cvrart_00602547338976_01_RGB72_1500x1500_15UMGIM31026.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/ea/c8/8a/eac88ad9-b885-9988-6f41-56b28adc76f2/UMG_cvrart_00602547338976_01_RGB72_1500x1500_15UMGIM31026.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Interscope Records/Star Trak Entertainment, LLC</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Remembering - Single - Ashley Campbell</title>
+    <link>https://itunes.apple.com/album/remembering-single/id1008341614?uo=1&amp;v0=9988</link>
+    <description>Remembering - Single by Ashley Campbell</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/remembering-single/id1008341614?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/84/e7/06/84e7069a-f722-afe8-26bc-8b8d8bfae487/UMG_cvrart_00843930018437_01_RGB72_1800x1800_15UMDIM00391.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/remembering-single/id1008341614?uo=1&v0=9988">Remembering - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/ashley-campbell/id829801327?uo=1&v0=9988">Ashley Campbell</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Big Machine Records, LLC.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Ashley Campbell</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/ashley-campbell/id829801327?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Remembering - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/remembering-single/id1008341614?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/84/e7/06/84e7069a-f722-afe8-26bc-8b8d8bfae487/UMG_cvrart_00843930018437_01_RGB72_1800x1800_15UMDIM00391.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/84/e7/06/84e7069a-f722-afe8-26bc-8b8d8bfae487/UMG_cvrart_00843930018437_01_RGB72_1800x1800_15UMDIM00391.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/84/e7/06/84e7069a-f722-afe8-26bc-8b8d8bfae487/UMG_cvrart_00843930018437_01_RGB72_1800x1800_15UMDIM00391.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Big Machine Records, LLC.</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>VHS - X Ambassadors</title>
+    <link>https://itunes.apple.com/album/vhs/id988868005?uo=1&amp;v0=9988</link>
+    <description>VHS by X Ambassadors</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/vhs/id988868005?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/fd/87/a1/fd87a19e-c422-42d6-a475-d57d413ac107/UMG_cvrart_00602547369338_01_RGB72_1500x1500_15UMGIM23181.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/vhs/id988868005?uo=1&v0=9988">VHS</a></B><br>
+						<a href="https://itunes.apple.com/artist/x-ambassadors/id622429974?uo=1&v0=9988">X Ambassadors</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						20</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$6.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 KIDinaKORNER/Interscope Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>X Ambassadors</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/x-ambassadors/id622429974?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>VHS</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/vhs/id988868005?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$6.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/fd/87/a1/fd87a19e-c422-42d6-a475-d57d413ac107/UMG_cvrart_00602547369338_01_RGB72_1500x1500_15UMGIM23181.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/fd/87/a1/fd87a19e-c422-42d6-a475-d57d413ac107/UMG_cvrart_00602547369338_01_RGB72_1500x1500_15UMGIM23181.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/fd/87/a1/fd87a19e-c422-42d6-a475-d57d413ac107/UMG_cvrart_00602547369338_01_RGB72_1500x1500_15UMGIM23181.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 KIDinaKORNER/Interscope Records</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Savior - Metro Station</title>
+    <link>https://itunes.apple.com/album/savior/id1007100516?uo=1&amp;v0=9988</link>
+    <description>Savior by Metro Station</description>
+    <pubDate>Mon, 06 Jul 2015 12:22:40 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/savior/id1007100516?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/10/74/d3/1074d373-4e1b-c356-b67a-388af29b5b45/790168959622_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/savior/id1007100516?uo=1&v0=9988">Savior</a></B><br>
+						<a href="https://itunes.apple.com/artist/metro-station/id261083706?uo=1&v0=9988">Metro Station</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 30, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						18</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ Metro Station Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Metro Station</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/metro-station/id261083706?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Savior</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/savior/id1007100516?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/10/74/d3/1074d373-4e1b-c356-b67a-388af29b5b45/790168959622_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/10/74/d3/1074d373-4e1b-c356-b67a-388af29b5b45/790168959622_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/10/74/d3/1074d373-4e1b-c356-b67a-388af29b5b45/790168959622_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; Metro Station Music</itms:rights>
+    
+        <itms:releasedate>June 30, 2015</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>
